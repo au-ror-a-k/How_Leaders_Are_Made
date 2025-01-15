@@ -10,4 +10,4 @@ They worked on the project with me:
 - Alina Babenko: https://github.com/rediskaJunior
 - Natalia Sydor: https://github.com/NataMontari
 - Anastasia Pelekh:
-- Yelyzaveta Mashchenko:
+- Yelyzaveta Mashchenko: https://github.com/lizamashchenko
