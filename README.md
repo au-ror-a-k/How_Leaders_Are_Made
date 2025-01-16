@@ -12,5 +12,5 @@ Our results can be found in the file Project_SA_Report_...
 The following people worked with me on this project:
 - Alina Babenko: https://github.com/rediskaJunior
 - Natalia Sydor: https://github.com/NataMontari
-- Anastasia Pelekh:
+- Anastasia Pelekh: https://github.com/Drakonchyk
 - Yelyzaveta Mashchenko: https://github.com/lizamashchenko
